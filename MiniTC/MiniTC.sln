@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTC", "MiniTC\MiniTC.csproj", "{6D08018E-0467-4853-A4DD-B5C2ECBF79ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D08018E-0467-4853-A4DD-B5C2ECBF79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D08018E-0467-4853-A4DD-B5C2ECBF79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D08018E-0467-4853-A4DD-B5C2ECBF79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D08018E-0467-4853-A4DD-B5C2ECBF79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E9864E-05BD-4FEC-93EB-01EA566B41B4}
+	EndGlobalSection
+EndGlobal
